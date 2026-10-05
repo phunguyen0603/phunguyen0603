@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Nguyễn Hoàng Minh Phú 👋</h1>
+<h1 align="center">Hi there, I'm Nguyen Hoang Minh Phu 👋</h1>
 
 <h3 align="center">Embedded Systems Engineer (Robotics) | Final Year Student at HCMUT</h3>
 
@@ -8,8 +8,7 @@ I am a final-year student at Ho Chi Minh City University of Technology (HCMUT), 
 
 - 🔭 I’m currently focused on: **Embedded Systems, Microcontrollers, and Robotics**
 - 🌱 I’m currently learning: **Advanced control algorithms and RTOS**
-- 🎓 Education: **Ho Chi Minh City University of Technology (HCMUT)** - Senior Year (Năm 4)
-- ⚡ Fun fact: *(Thêm một sự thật thú vị hoặc sở thích của bạn vào đây)*
+- 🎓 Education: **Ho Chi Minh City University of Technology (HCMUT)** - Senior Year
 
 ---
 
